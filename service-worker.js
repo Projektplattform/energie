@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/github.io/energie/precache-manifest.0cf0b08e6faea77289ec96c4bc9148ac.js"
+  "/github.io/energie/precache-manifest.aa8f42f36b181e13958f01dad352025d.js"
 );
 
 workbox.clientsClaim();
